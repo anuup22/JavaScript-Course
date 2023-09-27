@@ -3,7 +3,7 @@
 //sinleton -> it's a only sigle object of its own type(sinle instance)
 // Object.create
 
-//Object literals
+// 1->Object literals
 
 const mySymbol = Symbol("Key1")
 
