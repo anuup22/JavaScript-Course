@@ -1,0 +1,8 @@
+1) global execution 
+-> this object is creaated
+
+2) memory phase
+-> memory is allocated to all the variables
+
+3) execution phase
+-> all the tasks are performed
